@@ -1,7 +1,4 @@
-/*
- * File: 10-print_triangle.c
- * Auth: Brennan D Baraban
- */
+
 
 #include "main.h"
 

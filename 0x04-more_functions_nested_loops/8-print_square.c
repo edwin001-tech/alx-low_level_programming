@@ -1,7 +1,4 @@
-/*
- * File: 8-print_square.c
- * Auth: Brennan D Baraban
- */
+
 
 #include "main.h"
 
