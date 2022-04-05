@@ -1,7 +1,4 @@
-/*
- * File: 100-strtow.c
- * Auth: Brennan D Baraban
- */
+
 
 #include "main.h"
 #include <stdlib.h>

@@ -1,7 +1,4 @@
-/*
- * File: 2-str_concat.c
- * Auth: Brennan D Baraban
- */
+
 
 #include "main.h"
 #include <stdlib.h>
